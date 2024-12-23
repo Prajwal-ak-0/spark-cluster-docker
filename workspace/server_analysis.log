@@ -1,0 +1,24 @@
+2024-12-20 12:02:29,727 - INFO - Initializing Spark Session
+2024-12-20 12:02:34,768 - INFO - Loading server log data
+2024-12-20 12:02:52,026 - INFO - Parsed 5000 log entries
+2024-12-20 12:02:52,027 - INFO - Analyzing HTTP methods distribution
+2024-12-20 12:02:52,085 - INFO - Analyzing response codes
+2024-12-20 12:02:52,117 - INFO - Analyzing top IP addresses
+2024-12-20 12:02:52,163 - INFO - Analyzing hourly traffic patterns
+2024-12-20 12:02:52,215 - INFO - Analyzing URL patterns
+2024-12-20 12:03:05,010 - INFO - Saving analysis results
+2024-12-20 12:03:25,885 - INFO - Analysis completed successfully
+2024-12-20 12:03:26,460 - INFO - Spark session stopped
+2024-12-20 12:03:26,468 - INFO - Closing down clientserver connection
+2024-12-20 12:04:18,192 - INFO - Initializing Spark Session
+2024-12-20 12:04:21,390 - INFO - Loading server log data
+2024-12-20 12:04:37,854 - INFO - Parsed 5000 log entries
+2024-12-20 12:04:37,855 - INFO - Analyzing HTTP methods distribution
+2024-12-20 12:04:37,919 - INFO - Analyzing response codes
+2024-12-20 12:04:37,955 - INFO - Analyzing top IP addresses
+2024-12-20 12:04:38,006 - INFO - Analyzing hourly traffic patterns
+2024-12-20 12:04:38,070 - INFO - Analyzing URL patterns
+2024-12-20 12:04:55,372 - INFO - Saving analysis results
+2024-12-20 12:05:18,949 - INFO - Analysis completed successfully
+2024-12-20 12:05:19,581 - INFO - Spark session stopped
+2024-12-20 12:05:19,584 - INFO - Closing down clientserver connection
